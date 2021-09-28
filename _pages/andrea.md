@@ -1,6 +1,6 @@
 ---
 title: Andrea Bianchi
-description: About Andrea BIanchi - MAKinteract lab director. HCI, Korea, Haptics, VR, Digital Fabrication, Prototyping tools
+description: Andrea Bianchi, Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, MAKinteract, KAIST, Korea
 subtitle: Associate Professor - Lab director
 ---
 
@@ -55,9 +55,8 @@ subtitle: Associate Professor - Lab director
 
     <div class="links">
     <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
-    <a href="https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0"><i class="fas fa-2x fa-file" aria-hidden="true"></i></a>
+    <a href="http://andrea.kaist.id"><i class="fas fa-2x fa-file" aria-hidden="true"></i></a>
     <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
-    <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a>
     <a href="https://twitter.com/{{prof.twitter}}"><i class="fab fa-2x fa-twitter" aria-hidden="true"></i></a>
     <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
     <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
@@ -69,7 +68,7 @@ subtitle: Associate Professor - Lab director
 
 ## Short Bio
 
-Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://id.kaist.ac.kr), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
+Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://id.kaist.ac.kr), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.kaist.id/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
@@ -87,12 +86,16 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 - **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
 - **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
 - **Best Paper Award** UIST 2020
+- **Best Paper Award** TEI 2021
 - **Best Paper Award** MobileHCI 2013
 - **Best Paper Award** HCI Korea 2018
 - **Best Paper Award** HCI Korea 2015
+- **Honorable Mention Award** CHI 2021
+- **Honorable Mention Award** Augmented Humans 2021
 - **Honorable Mention Award** MobileHCI 2017
 - **Honorable Mention Award** MobileHCI 2016
 - **Best Poster Award** UIST 2016
+- **iF Design Award 2021** Mobile Clinic Module Control UX/UI
 
 ## Academic Services
 
@@ -108,7 +111,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 - DESFORM 2017
 - IMCOM 2015
 
-**Conference chair**
+**Conference chair/organizer**
 
 - TEI 2022 poster co-chair
 - TEI 2020 Student design challenge co-chair
@@ -126,7 +129,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 **ID311 - Software Prototyping**
 
 - Fall: 2016, 2017
-- Spring: 2016, 2018-2020
+- Spring: 2016, 2018-2021
 
 **ID220 - Interaction Prototyping**
 
@@ -139,9 +142,9 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 ## Additional Resources
 
 - [My calendar](https://calendar.makinteract.com)
-- [Previous website](https://alsoplantsfly.com)
+- [My previous website](https://alsoplantsfly.kaist.id)
 - [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
 - [Vimeo channel](https://vimeo.com/minimalo)
 - [About me page](https://about.me/andreabianchi)
 - [Department page](https://id.kaist.ac.kr)
-- [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
+- [Short Resume (PDF)](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)

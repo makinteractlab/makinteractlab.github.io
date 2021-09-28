@@ -27,15 +27,15 @@ description: Publications at MAKinteract lab
 
 ## 2021
 
-Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. To appear in _CHI 2021_.
+Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 127, 1–11. DOI: [https://doi.org/10.1145/3411764.3445454](https://doi.org/10.1145/3411764.3445454)
 
-Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. **GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation**. To appear in _CHI 2021_.
+Neung Ryu, Hye-Young Jo, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2021. **GamesBond: Bimanual Haptic Illusion of Physically Connected Objects for Immersive VR Using Grip Deformation**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 125, 1–10. DOI: [https://doi.org/10.1145/3411764.3445727](https://doi.org/10.1145/3411764.3445727) (**Honorable mention award 🏅**)
 
-DaYe Kang, Tony Hoi, Nicolai Marquardt, Bilge Mutlu, and Andrea BIanchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. To appear in _CHI 2021_.
+DaYe Kang, Tony Ho, Nicolai Marquardt, Bilge Mutlu, and Andrea Bianchi. 2021. **ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics**. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (_CHI'21_). Association for Computing Machinery, New York, NY, USA, Article 727, 1–14. DOI: [https://doi.org/10.1145/3411764.3445434](https://doi.org/10.1145/3411764.3445434)
 
-Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook , Andrea Bianchi. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits**. To appear in _TEI 2021_.
+Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook, and Andrea Bianchi. 2021. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits.** In <i>Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction</i> (_TEI '21_). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. DOI: [https://doi.org/10.1145/3430524.3440623](https://doi.org/10.1145/3430524.3440623) (**Best paper award** 🏆)
 
-Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Proceedings of _Augmented Humans 2021_.
+Myung Jin Kim and Andrea Bianchi. 2021. **Exploring Pseudo Hand-Eye Interaction on the Head-Mounted Display**. In Augmented Humans Conference 2021 (_AHs’21_). Association for Computing Machinery, New York, NY, USA, 251–258. DOI: [https://doi.org/10.1145/3458709.3458960](https://doi.org/10.1145/3458709.3458960) (**Honorable mention award 🏅**)
 
 ---
 
@@ -91,7 +91,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In <i>Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems</i> (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. DOI: [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
-Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.com/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
+Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
 
 ---
 
@@ -130,6 +130,10 @@ Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, and Aaron Quigley. 2016. **Sidetap 
 Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own Picture for Securing Graphical Passwords**. In _IEEE Transactions on Human-Machine Systems_, vol. 46, no. 3, pp. 380-389, June 2016. DOI: [https://doi.org/10.1109/THMS.2015.2487511](https://doi.org/10.1109/THMS.2015.2487511)
 
 Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportunities**. In _it - Information Technology_. Volume 58, Issue 5, Pages 255-262, July 2016 (invited paper). DOI: [https://doi.org/10.1515/itit-2016-0010](https://doi.org/10.1515/itit-2016-0010)
+
+---
+
+For papers published _before 2016_ please refer to [http://alsoplantsfly.kaist.id](http://alsoplantsfly.kaist.id).
 
 ---
 
