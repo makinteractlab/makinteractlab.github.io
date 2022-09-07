@@ -50,6 +50,8 @@ Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea B
 
 Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee. 2022. **MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame**. In CHI Conference on Human Factors in Computing Systems (_CHI '22_). Association for Computing Machinery, New York, NY, USA, Article 341, 1–17. DOI: [https://doi.org/10.1145/3491102.3502041](https://doi.org/10.1145/3491102.3502041) (**Honorable mention award 🏅**)
 
+Myung Jin Kim and Andrea Bianchi. 2022. **SpinOcchietto: A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips**. To appear in the 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22 Extended Abstracts_). <!--Association for Computing Machinery, New York, NY, USA, Article 433, 1–14.--> DOI: [https://doi.org/10.1145/3526114.3558651](https://doi.org/10.1145/3526114.3558651)
+
 Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11, **Best paper award** 🏆)
 
 ## 2021
@@ -165,6 +167,8 @@ For papers published _before 2016_ please refer to [http://alsoplantsfly.kaist.i
 ---
 
 # Patents
+
+Andrea Bianchi, Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam. **Method, computer program and system for controlling and programming hardware by using a conversational interface (대화를 통하여 하드웨어의 제어 및 프로그래밍을 수행하는 물리적 컴퓨팅 방법, 컴퓨터 프로그램 및 시스템 국내)**. (No. 10-2437242-0000, Korea Patent), 2022-08-24, _ISSUED_.
 
 Andrea Bianchi, Youngkyung Choi, Myung Jin Kim, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same** (Filed No. 10-2021-0006204, Korea Patent), _Patent Pending_.
 

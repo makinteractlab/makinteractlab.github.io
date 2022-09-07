@@ -19,7 +19,7 @@ Various haptic feedback techniques have been explored to enable users to interac
 
 ### References
 
-Myung Jin Kim and Andrea Bianchi. 2022. **SpinOcchietto: A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips**. To appear in The 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22_). <!--Association for Computing Machinery, New York, NY, USA, Article 433, 1–14.--> DOI: [https://doi.org/10.1145/3526114.3558651](https://doi.org/10.1145/3526114.3558651)
+Myung Jin Kim and Andrea Bianchi. 2022. **SpinOcchietto: A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips**. To appear in The 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22 Extended Abstracts_). <!--Association for Computing Machinery, New York, NY, USA, Article 433, 1–14.--> DOI: [https://doi.org/10.1145/3526114.3558651](https://doi.org/10.1145/3526114.3558651)
 
 <!-- DO NOT CHANGE MANUALLY -->
 
