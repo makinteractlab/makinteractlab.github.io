@@ -76,9 +76,9 @@ Youngkyung Choi, Neung Ryu, Myung Jin Kim, Artem Dementyev, and Andrea Bianchi. 
 
 Yoonji Kim, Hyein Lee, Ramkrishna Prasad, Seungwoo Je, Youngkyung Choi, Daniel Ashbrook, Ian Oakley, and Andrea Bianchi. 2020. **SchemaBoard: Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization**. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (_UIST ‘20_). Association for Computing Machinery, New York, NY, USA, 987–998. DOI: [https://doi.org/10.1145/3379337.3415887](https://doi.org/10.1145/3379337.3415887)
 
-Hyein Lee, Yoonji Kim, and Andrea Bianchi. 2020. **MAScreen: Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display**. In SIGGRAPH Asia 2020 Emerging Technologies (_SA ‘20_). Association for Computing Machinery, New York, NY, USA, Article 2, 1–2. DOI:[https://doi.org/10.1145/3415255.3422886](https://doi.org/10.1145/3415255.3422886)
+Hyein Lee, Yoonji Kim, and Andrea Bianchi. 2020. **MAScreen: Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display**. In SIGGRAPH Asia 2020 Emerging Technologies (_SIGGRAPH ASIA ET ‘20_). Association for Computing Machinery, New York, NY, USA, Article 2, 1–2. DOI:[https://doi.org/10.1145/3415255.3422886](https://doi.org/10.1145/3415255.3422886)
 
-Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick: A Variable Stiffness Display for Rendering Handheld Flexible Object**. In SIGGRAPH Asia 2020 Emerging Technologies (_SA ‘20_). Association for Computing Machinery, New York, NY, USA, Article 5, 1–2. DOI: [https://doi.org/10.1145/3415255.3422894](https://doi.org/10.1145/3415255.3422894)
+Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick: A Variable Stiffness Display for Rendering Handheld Flexible Object**. In SIGGRAPH Asia 2020 Emerging Technologies (_SIGGRAPH ASIA ET ‘20_). Association for Computing Machinery, New York, NY, USA, Article 5, 1–2. DOI: [https://doi.org/10.1145/3415255.3422894](https://doi.org/10.1145/3415255.3422894)
 
 Hyelip Lee, Andrea Bianchi. **YourSphere: Supporting Flexible Environmental Switching in Open-plan Workspaces via Augmented Reality**. _Archives of Design Research_ 33 (4), 43-52. DOI: [http://dx.doi.org/10.15187/adr.2020.11.33.4.43](http://dx.doi.org/10.15187/adr.2020.11.33.4.43)
 
@@ -112,7 +112,7 @@ Seungwoo Je, Minkyeong Lee, Yoonji Kim, Liwei Chan, Xing-Dong Yang, and Andrea B
 
 Minkyeong Lee, Okyu Choi, Hyelip Lee, Bum-Jae You, Minsoo Han, Andrea Bianchi. 2018. **Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots**. In 2018 27th IEEE International Symposium on Robot and Human Interactive Communication (_RO-MAN 2018_). DOI: [https://doi.org/10.1109/ROMAN.2018.8525646](https://doi.org/10.1109/ROMAN.2018.8525646)
 
-Seungwoo Je, Hyelip Lee, Myung Jin Kim, and Andrea Bianchi. 2018. **Wind-blaster: a wearable propeller-based prototype that provides ungrounded force-feedback**. In ACM SIGGRAPH 2018 Emerging Technologies (_SIGGRAPH ‘18_). ACM, New York, NY, USA, Article 23, 2 pages. DOI: [https://doi.org/10.1145/3214907.3214915](https://doi.org/10.1145/3214907.3214915)
+Seungwoo Je, Hyelip Lee, Myung Jin Kim, and Andrea Bianchi. 2018. **Wind-blaster: a wearable propeller-based prototype that provides ungrounded force-feedback**. In ACM SIGGRAPH 2018 Emerging Technologies (_SIGGRAPH ET ‘18_). ACM, New York, NY, USA, Article 23, 2 pages. DOI: [https://doi.org/10.1145/3214907.3214915](https://doi.org/10.1145/3214907.3214915)
 
 Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Choi, and Andrea Bianchi. 2018. **How was made: Wind-blaster**. _Interactions_ 26, 1 (December 2018), 14-15. DOI: [https://doi.org/10.1145/3292075](https://doi.org/10.1145/3292075)
 
