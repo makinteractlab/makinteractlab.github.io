@@ -66,13 +66,17 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 **KAIST**
 
 - **Associate Professor** - Department of Industrial Design (9/2019 - present)
-- **Adjunct Professor** - KAIST Human-Robot Interaction Center (3/2022 - present)
-- **SIGCHI Korea Local Chapter** - Vice-chair (4/2022 - 3/2023)
+- **Adjunct Professor** - School of Computing (1/10/2022 - present)
+- **Adjunct Professor** - Human-Robot Interaction Center (3/2022 - present)
 - **Assistant Professor** - Department of Industrial Design (9/2015 - 8/2019)
 
 **Sungkyunkwan University**
 
 - **Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
+
+**Others**
+
+- **SIGCHI Korea Local Chapter** - Vice-chair (4/2022 - 3/2023)
 
 ## Awards
 
