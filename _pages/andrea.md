@@ -74,9 +74,9 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 
 - **Assistant Professor** - Department of Computer Science (3/2013 - 8/2015)
 
-**Others**
+**SIGCHI**
 
-- **SIGCHI Korea Local Chapter** - Vice-chair (4/2022 - 3/2023)
+- **Vice-chair** - SIGCHI Korea Local Chapter (4/2022 - 3/2023)
 
 ## Awards
 
