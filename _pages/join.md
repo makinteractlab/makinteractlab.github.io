@@ -3,13 +3,11 @@ title: Join us
 description: How to join the MAKinteract lab
 ---
 
-## We have an opening position for a fully-funded Ph.D. student starting Spring 2023.
+<!-- ## We have an opening position for a fully-funded Ph.D. student starting Spring 2023.
 
 We are excited to meet strong candidates with background and interest in digital fabrication, electronics toolkits, large-scale haptic devices, robotics...
 
-To prospective students, _please check for more details below_.
-
----
+To prospective students, _please check for more details below_. -->
 
 ## For prospective Ph.D. students
 
