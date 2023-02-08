@@ -44,7 +44,7 @@ description: Publications at MAKinteract lab
 
 ## 2023
 
-Zofia Marcinia, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
+Zofia Marcinia, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
 
 ## 2022
 
