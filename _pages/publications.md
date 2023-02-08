@@ -42,6 +42,10 @@ description: Publications at MAKinteract lab
 
 # Academic papers
 
+## 2023
+
+Zofia Marcinia, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
+
 ## 2022
 
 Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating**. To appear in proceedings of _UIST'22_.
@@ -52,7 +56,7 @@ Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bian
 
 Myung Jin Kim and Andrea Bianchi. 2022. **SpinOcchietto: A Wearable Skin-Slip Haptic Device for Rendering Width and Motion of Objects Gripped Between the Fingertips**. To appear in the 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22 Extended Abstracts_). <!--Association for Computing Machinery, New York, NY, USA, Article 433, 1–14.--> DOI: [https://doi.org/10.1145/3526114.3558651](https://doi.org/10.1145/3526114.3558651)
 
-Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ (2022.02.09 - 02.11, **Best paper award** 🏆)
+Hye-Young Jo, Wooje Chang, Hoonjin Jung, Andrea Bianchi. 2022. **Design of Virtual Reality Application for Interaction Prototyping Remote Education**. In _HCI Korea 2022_ [[paper]]({{ site.url }}/files/2022/files/2022/Jo_PcompMetaverse_KHCI22.pdf) (2022.02.09 - 02.11, **Best paper award** 🏆)
 
 ## 2021
 
@@ -120,7 +124,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In <i>Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems</i> (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. DOI: [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
-Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _HCI Korea'18_ [paper](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
+Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _HCI Korea'18_ [[paper]](https://alsoplantsfly.kaist.id/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
 
 ---
 
