@@ -44,11 +44,13 @@ description: Publications at MAKinteract lab
 
 ## 2023
 
+Hye-Young Jo, Laurenz Seidel, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2023. **FlowAR: How Different Augmented Reality Visualizations of Online Fitness Videos Support Flow for At-Home Yoga Exercises**. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI ’23_ ), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3544548.3580897](https://doi.org/10.1145/3544548.3580897)
+
 Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
 
 ## 2022
 
-Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating**. To appear in proceedings of _UIST'22_.
+Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heatin**. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22_ ). Association for Computing Machinery, New York, NY, USA, Article 86, 1–12. [https://doi.org/10.1145/3526113.3545670](https://doi.org/10.1145/3526113.3545670)
 
 Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. In CHI Conference on Human Factors in Computing Systems (_CHI '22_). Association for Computing Machinery, New York, NY, USA, Article 433, 1–14. DOI: [https://doi.org/10.1145/3491102.3517724](https://doi.org/10.1145/3491102.3517724)
 
