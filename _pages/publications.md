@@ -46,6 +46,8 @@ description: Publications at MAKinteract lab
 
 Hye-Young Jo, Laurenz Seidel, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2023. **FlowAR: How Different Augmented Reality Visualizations of Online Fitness Videos Support Flow for At-Home Yoga Exercises**. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI ’23_ ), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3544548.3580897](https://doi.org/10.1145/3544548.3580897)
 
+Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://electrofab.prototyping.id)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_).
+
 Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
 
 ## 2022
