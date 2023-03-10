@@ -43,7 +43,9 @@ subtitle: Associate Professor - Lab director
 </head>
 
 <span class="profile">
-Andrea Bianchi (Korean: 안두리) is an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **MAKinteract lab**. He researches in the field of Human-Computer Interaction (_HCI_) focusing on building **tools for prototyping and augmented XR experiences**.  
+My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **MAKinteract lab**. I research in the field of Human-Computer Interaction (_HCI_).
+
+The focus of my work is to investigate _how physical interaction can to enable rich and expressive ways to interact with computers_ that are symbiotic or alternative to mainstream graphical user interfaces. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
 </span>
 
 <img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage">
