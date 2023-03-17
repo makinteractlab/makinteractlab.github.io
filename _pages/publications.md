@@ -52,7 +52,7 @@ Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for 
 
 ## 2022
 
-Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heatin**. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22_ ). Association for Computing Machinery, New York, NY, USA, Article 86, 1–12. [https://doi.org/10.1145/3526113.3545670](https://doi.org/10.1145/3526113.3545670)
+Kongpyung (Justin) Moon, Haeun Lee, Jeeeun Kim, and Andrea Bianchi. 2022. **ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating**. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (_UIST '22_ ). Association for Computing Machinery, New York, NY, USA, Article 86, 1–12. [https://doi.org/10.1145/3526113.3545670](https://doi.org/10.1145/3526113.3545670)
 
 Myung Jin Kim, Neung Ryu, Wooje Chang, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2022. **SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller**. In CHI Conference on Human Factors in Computing Systems (_CHI '22_). Association for Computing Machinery, New York, NY, USA, Article 433, 1–14. DOI: [https://doi.org/10.1145/3491102.3517724](https://doi.org/10.1145/3491102.3517724)
 
