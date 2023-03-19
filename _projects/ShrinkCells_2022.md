@@ -9,7 +9,7 @@ doi_link: https://doi.org/10.1145/3526113.3545670
 featured: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rr4f10L2GA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jUd87_eJzzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- DO NOT CHANGE MANUALLY -->
 
