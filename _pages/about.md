@@ -3,11 +3,9 @@ title: The Lab
 description: Interaction, Design, HCI, Haptics, VR, Digital Fabrication, Physical computing, Prototyping tools, MAKinteract, KAIST, Korea, Hardware UX
 ---
 
-**MAKinteract** (**MAK**E + **interact**ion) is a research lab specialized in **Hardware UX**, in the field of Human-Computer Interaction (**HCI**). We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/en/) (South Korea) and are a member of the [KAIST HCI group](https://hci.kaist.ac.kr). Our lab is a well-recognized and award-winning HCI lab in Korea working at the intersection of design and engineering. Please see our [publications](./publications.html).
+**MAKinteract** (**MAK**E + **interact**ion) is a research lab working in the field of Human-Computer Interaction (**HCI**), with the objective of creating novel _computationally augmented physical interactions_. We are in the department of [Industrial Design](http://id.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/en/) (South Korea) and are a member of the [KAIST HCI group](https://hci.kaist.ac.kr). Our lab is a well-recognized and award-winning HCI lab in Korea working at the intersection of design and engineering. Please see our [publications](./publications.html).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FaTROXhY3-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 Rooted in user-centered experience design and with deep understanding and expertise in various engineering fields (computing, mechanical engineering, electronics), we explore emerging technologies in the areas of _physical interaction with computers_ that require combinations of software and hardware. Current research topics are related to **novel tools for electronics**, **digital fabrication**, **mixed-reality interaction**, and **haptic interfaces**.
 
