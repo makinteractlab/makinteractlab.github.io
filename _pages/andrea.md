@@ -39,14 +39,33 @@ subtitle: Associate Professor - Lab director
         justify-content: center;
     }
 
+    /*
+    span.profile {
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    span img {
+        margin-left: 5%;
+        height: 100%;
+    }
+    */
+
+
 </style>
 </head>
 
-<span class="profile"> My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **MAKinteract lab**. I research in the field of Human-Computer Interaction (_HCI_).</span>
+
+
+<span class="profile"> 
+My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **MAKinteract lab**. I research in the field of Human-Computer Interaction (_HCI_).
+</span>
+
+<img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/> 
 
 The focus of my work is to investigate _how physical interaction can enable rich and expressive ways to interact with computers_ that are symbiotic or alternative to mainstream graphical user interfaces. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
 
-<img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U54PDYC_d4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) (Korea) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup. Andrea received a [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) (Korea) in 2012, an MS in Computer Science from [NYU](http://www.nyu.edu) (USA), and a Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) (Italy). Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://www.dropbox.com/s/f9ckj7usmhk95b3/glasses.jpg?dl=0).
 
