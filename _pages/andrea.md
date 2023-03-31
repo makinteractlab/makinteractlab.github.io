@@ -51,17 +51,14 @@ subtitle: Associate Professor - Lab director
     }
     */
 
-
 </style>
 </head>
-
-
 
 <span class="profile"> 
 My name is Andrea Bianchi (Korean: 안두리), and I am an Associate Professor (tenured) in the [Department of Industrial Design](https://id.kaist.ac.kr) and an Adjunct Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://id.kaist.ac.kr), and the director of the **MAKinteract lab**. I research in the field of Human-Computer Interaction (_HCI_).
 </span>
 
-<img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/> 
+<img src="/images/people/andreaHD.jpg" alt="{{prof.name}}" class="profileImage"/>
 
 The focus of my work is to investigate _how physical interaction can enable rich and expressive ways to interact with computers_ that are symbiotic or alternative to mainstream graphical user interfaces. The physical interfaces resulting from this vision are **tangible UIs**, **mechatronics devices** for interacting with digital content, **toolkits for fabrication and electronics**, and **wearable devices**. My lab work has been recognized with 9+ Best Paper and Honorable Mention Awards at the premiere HCI venues.
 
@@ -145,9 +142,11 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 - IEEE World Haptics 2013 art chair
 - HAID 2013 poster chair
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4H6CQP6PaME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Teaching
+
+I have tried to explain a little about my teaching philospjy in this [interview](https://youtu.be/bZnS8IFA_OQ):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZnS8IFA_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **ID311 - Software Prototyping**
 
