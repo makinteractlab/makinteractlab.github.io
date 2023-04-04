@@ -153,7 +153,7 @@ I have tried to explain a little about my teaching philospjy in this [interview]
 - Fall: 2016, 2017
 - Spring: 2016, 2018-2023
 
-**ID220 - Interaction Prototyping ([archive](https://interaction.prototyping.id))**
+**ID220 - Interaction Prototyping ([archive](https://sites.google.com/view/interaction-prototyping/home))**
 
 - Fall: 2018-2022
 
