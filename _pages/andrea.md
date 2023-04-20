@@ -131,6 +131,7 @@ Before joining KAIST, he worked at [Sungkyunkwan University](http://www.skku.edu
 **Conference chair/organizer**
 
 - CHI 2023 Student Design Competition jury
+- UIST 2022 Student Design Competition jury
 - TEI 2022 poster co-chair
 - TEI 2020 Student design challenge co-chair
 - TEI 2017 WIP chair
