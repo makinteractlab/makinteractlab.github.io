@@ -5,7 +5,7 @@ description: How to join the MAKinteract lab
 
 ## For prospective Ph.D. students
 
-We are always looking for passionate students interested in our Ph.D. program in the Department of Industrial Design at KAIST (ID KAIST), and eager to work on topics such as **interactive systems and digital fabrication**. The Ph.D. program at KAIST is fully-funded and it typically ranges between 3-5 years, with 4 years being the typical length of the program. In the first two years, you will focus on coursework and passing a qualifying exam, while also starting your dive into research. In the last two years, you will work on publications and on preparing your dissertation.
+We are always looking for passionate students interested in our Ph.D. program in the Department of Industrial Design at KAIST (ID KAIST), and eager to work on topics such as **interactive systems and digital fabrication**. The Ph.D. program at KAIST is **fully-funded** and it typically ranges between 3-5 years, with 4 years being the typical length of the program. In the first two years, you will focus on coursework and passing a qualifying exam, while also starting your dive into research. In the last two years, you will work on publications and on preparing your dissertation.
 
 Ideal candidates for the Ph.D. program should have some **prior research experience** (preferably in the field of HCI) and **proven technical capabilities** in designing or building interactive systems (e.g., programming, electronics, mechanical design, fabrication, user studies). We encourage students from a _variety of majors_ to apply. Current and past lab members came from diverse fields such as **design, art, business, architecture, computer science, and mechanical engineering**.
 
@@ -13,7 +13,7 @@ Students are encouraged to apply by initially sending an <a href="#" onclick="(f
 
 ## For Master's program applicants
 
-MAKinteract lan in the department of Industrial Design at KAIST (ID KAIST) offers a **fully-funded** Master's opening position **every** _spring_ and _fall_ semesters. The MS program is **research-oriented**, which means that on top of your coursework, you are expected to conduct research. The Master's program lasts two years. We also offer a Masters+Ph.D. combined program. The way it works is that you would apply to the MS program first, and then during your first semester you internally apply to move to the Ph.D. track.
+MAKinteract lan in the department of Industrial Design at KAIST (ID KAIST) offers a **fully-funded** Master's opening position **every** _spring_ and _fall_ semesters. The MS program is **research-oriented**, which means that on top of your coursework, you are expected to conduct research. The Master's program lasts two years. We also offer a **Masters+Ph.D. combined** program. The way it works is that you would apply to the MS program first, and then during your first semester you internally apply to move to the Ph.D. track.
 
 Strong candidates are encouraged to contact directly the lab. If you are interested in our Master's program, please go ahead and apply [here](https://admission.kaist.ac.kr).
 
