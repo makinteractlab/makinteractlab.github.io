@@ -176,6 +176,8 @@ For papers published _before 2016_ please refer to [http://alsoplantsfly.kaist.i
 
 # Patents
 
+Andrea Bianchi, Myung Jin Kim, Wooje Chang, Michel Pahud, Mike Sinclair. **Virtual Reality Haptic Controller based on Pivoting Spinning Discs and Virtual Reality System comprising the same**. (Filed No. 10-2023-0053061, Korea Patent), _Patent Pending_.
+
 Andrea Bianchi, Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam. **Method, computer program and system for controlling and programming hardware by using a conversational interface (대화를 통하여 하드웨어의 제어 및 프로그래밍을 수행하는 물리적 컴퓨팅 방법, 컴퓨터 프로그램 및 시스템 국내)**. (No. 10-2437242-0000, Korea Patent), 2022-08-24, _ISSUED_.
 
 Andrea Bianchi, Youngkyung Choi, Myung Jin Kim, Artem Dementyev. **Method and apparatus for printing electrical circuit directly on target surface having 3-dimensional shape, 3D printer used for the same and electical device having electrical circuit printed by the same** (Filed No. 10-2021-0006204, Korea Patent), _Patent Pending_.
