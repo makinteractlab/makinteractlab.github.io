@@ -48,7 +48,7 @@ Hye-Young Jo, Laurenz Seidel, Michel Pahud, Mike Sinclair, and Andrea Bianchi. 2
 
 Wooje Chang, Seungwoo Je, Michel Pahud, Mike Sinclair, and Andrea Bianchi, **Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight**. In IEEE Transactions on Haptics. [https://doi.org/10.1109/TOH.2023.3275136](https://doi.org/10.1109/TOH.2023.3275136).
 
-Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://electrofab.prototyping.id)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_) [[paper]]({{ site.url }}/files/2023/Bianchi_BeyondPrototypingboards_CHI23.pdf).
+Andrea Bianchi, Steve Hodges, David Cuartielles, Hyunjoo Oh, Mannu Lambrichts, and Anne Roudaut. **Beyond prototyping boards: future paradigms for electronics toolkits** ([Workshop](https://beyond.prototyping.id)). In Extended Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (_CHI EA ’23_) [[paper]]({{ site.url }}/files/2023/Bianchi_BeyondPrototypingboards_CHI23.pdf).
 
 Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 2023. **3D Printing Slicer for Computational Texture Generation**. In _HCI Korea 2023_ [[paper]]({{ site.url }}/files/2023/Marciniak_Slicer_KHCI23.pdf) (2023.02.01 - 2023.02.03).
 
