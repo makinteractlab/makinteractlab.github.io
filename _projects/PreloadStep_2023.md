@@ -1,5 +1,5 @@
 ---
-title: PreloadSteps
+title: PreloadStep
 subtitle: 'Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight'
 description: 'Rendering Perceived Terrain Stiffness in VR Via Preload Variation Against Body-Weight'
 year: 2023
