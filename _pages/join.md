@@ -3,6 +3,17 @@ title: Join Us
 description: How to join the MAKinteract lab
 ---
 
+## TL;DR
+
+- We are **looking for grad students** interested in interactive systems, VR, haptics and robots, digital fabrication, etc...
+- MS and Ph.D. students are **fully funded** and receive a government scholarship plus a lab stipend
+- MS is **2** years, Ph.D. is **4**. MS+PhD combined is **5** years
+- All programs are in **English**
+- For PhD, I expect some prior research **experience** and some proven technical **capabilities** (e.g., coding, making, stats, research methods...)
+- OK with many majors of origin - not a disadvantage or advance per se. OK no prior design background
+- For **internship** we welcome KAIST students and consider applicants from elsewhere with strong recommendations
+- For inquiries reach out directly via <a href="#" onclick="(function(){window.open('mailto:andrea@kaist.ac.kr');})()">email <i class="fas fa-envelope"></i></a> or the [contact form](./contact.md)
+
 ## For prospective Ph.D. students
 
 We are always looking for passionate students interested in our Ph.D. program in the Department of Industrial Design at KAIST (ID KAIST), and eager to work on topics such as **interactive systems and digital fabrication**. The Ph.D. program at KAIST is **fully-funded** and it typically ranges between 3-5 years, with 4 years being the typical length of the program. In the first two years, you will focus on coursework and passing a qualifying exam, while also starting your dive into research. In the last two years, you will work on publications and on preparing your dissertation.
