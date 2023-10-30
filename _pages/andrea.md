@@ -8,7 +8,7 @@ subtitle: Associate Professor - Lab director
 <style>
 
     .profileImage {
-        width: 30%;
+        width: 70%;
     }
 
 
